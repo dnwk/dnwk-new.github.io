@@ -1,4 +1,4 @@
 theme: jekyll-theme-dinky
-title: Kun Lin[Kun Lin]({{ "https://media.licdn.com/mpr/mpr/shrink_80_80/p/2/005/00a/037/2b1836d.jpg" | absolute_url }})
+title: Kun Lin
 description: > # this means to ignore newlines until "baseurl:"
-  System and Application librarian at Whitman College
+  [Kun Lin]({{ "https://media.licdn.com/mpr/mpr/shrink_80_80/p/2/005/00a/037/2b1836d.jpg" | absolute_url }})System and Application librarian at Whitman College 
